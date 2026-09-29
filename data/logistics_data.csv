@@ -1,0 +1,21 @@
+Order_ID,Order_Date,Delivery_Date,Promised_Date,Warehouse,Route,Distance_KM,Transportation_Cost,Vehicle_Type,Status
+L001,2026-09-01,2026-09-03,2026-09-03,Bangalore,Bangalore-Mysore,145,3200,Truck,On Time
+L002,2026-09-01,2026-09-05,2026-09-04,Bangalore,Bangalore-Hassan,185,3900,Truck,Delayed
+L003,2026-09-02,2026-09-04,2026-09-05,Mysore,Mysore-Bangalore,145,3100,Van,On Time
+L004,2026-09-02,2026-09-06,2026-09-05,Bangalore,Bangalore-Tumkur,70,2100,Van,Delayed
+L005,2026-09-03,2026-09-05,2026-09-05,Hassan,Hassan-Bangalore,185,4000,Truck,On Time
+L006,2026-09-03,2026-09-07,2026-09-06,Bangalore,Bangalore-Mandya,100,2700,Van,Delayed
+L007,2026-09-04,2026-09-06,2026-09-07,Mysore,Mysore-Mandya,45,1500,Van,On Time
+L008,2026-09-04,2026-09-08,2026-09-07,Bangalore,Bangalore-Hassan,185,4200,Truck,Delayed
+L009,2026-09-05,2026-09-07,2026-09-08,Bangalore,Bangalore-Mysore,145,3300,Truck,On Time
+L010,2026-09-05,2026-09-09,2026-09-08,Hassan,Hassan-Mysore,120,2800,Van,Delayed
+L011,2026-09-06,2026-09-08,2026-09-08,Bangalore,Bangalore-Tumkur,70,2200,Van,On Time
+L012,2026-09-06,2026-09-10,2026-09-09,Bangalore,Bangalore-Mandya,100,2900,Truck,Delayed
+L013,2026-09-07,2026-09-09,2026-09-10,Mysore,Mysore-Bangalore,145,3150,Truck,On Time
+L014,2026-09-07,2026-09-11,2026-09-10,Bangalore,Bangalore-Hassan,185,4300,Truck,Delayed
+L015,2026-09-08,2026-09-10,2026-09-10,Hassan,Hassan-Bangalore,185,4050,Truck,On Time
+L016,2026-09-08,2026-09-12,2026-09-11,Bangalore,Bangalore-Tumkur,70,2300,Van,Delayed
+L017,2026-09-09,2026-09-11,2026-09-12,Mysore,Mysore-Mandya,45,1550,Van,On Time
+L018,2026-09-09,2026-09-13,2026-09-12,Bangalore,Bangalore-Mandya,100,2950,Truck,Delayed
+L019,2026-09-10,2026-09-12,2026-09-13,Bangalore,Bangalore-Mysore,145,3350,Truck,On Time
+L020,2026-09-10,2026-09-14,2026-09-13,Hassan,Hassan-Mysore,120,2850,Van,Delayed
